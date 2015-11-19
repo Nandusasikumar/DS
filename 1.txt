@@ -1,5 +1,1 @@
-From Win 10 PC
-
-git push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master mastergit push --set-upstream master master
-
-11sss
+On Branch Dev
